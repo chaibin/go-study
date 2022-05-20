@@ -11,6 +11,7 @@ func main() {
 	} else {
 		fmt.Println(d)
 	}
+	println(true)
 }
 
 func eval(a, b int, op string) int {
